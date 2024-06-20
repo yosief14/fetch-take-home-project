@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D8B7E7B-DC99-456F-9616-C28B2B8BE245"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF2FF07B-DD8D-4752-A9BC-3E1CB26331DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch Take Home Project/services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchDessertAPI()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EF2FF07B-DD8D-4752-A9BC-3E1CB26331DA - 267739ab873d4b7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Fetch_Take_Home_Project.fetchDessertAPI() async throws -&gt; ()"
+                  moduleName = "Fetch Take Home Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saraesellers/Projects/Fetch%20Take%20Home%20Project/Fetch%20Take%20Home%20Project/services.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "EF2FF07B-DD8D-4752-A9BC-3E1CB26331DA - a358c61cc8ce856e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Fetch_Take_Home_Project.fetchDessertAPI() async throws -&gt; ()"
+                  moduleName = "Fetch Take Home Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saraesellers/Projects/Fetch%20Take%20Home%20Project/Fetch%20Take%20Home%20Project/services.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "EF2FF07B-DD8D-4752-A9BC-3E1CB26331DA - f59ffb0c9a8ac705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Fetch_Take_Home_Project.fetchDessertAPI() async throws -&gt; ()"
+                  moduleName = "Fetch Take Home Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saraesellers/Projects/Fetch%20Take%20Home%20Project/Fetch%20Take%20Home%20Project/services.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "EF2FF07B-DD8D-4752-A9BC-3E1CB26331DA - 1b0c5c201c518534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Fetch_Take_Home_Project.fetchDessertAPI() async throws -&gt; ()"
+                  moduleName = "Fetch Take Home Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saraesellers/Projects/Fetch%20Take%20Home%20Project/Fetch%20Take%20Home%20Project/services.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D664BD5-C26C-462F-85C1-5160F34CF6F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch Take Home Project/services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchDessertAPI()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC7D9787-BB8A-47D8-B082-370F28085836"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch Take Home Project/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "downloadData(fromUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
